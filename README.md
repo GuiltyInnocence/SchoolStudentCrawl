@@ -1,7 +1,7 @@
 # SchoolStudentCrawl
 
-政府采购招标花了九十万做出来的系统竟然文件**明着暴露公网**？？？
-[来源](https://www.tianyancha.com/bid/16f134cf743f11ea85737cd30aeb144c)
+政府采购[来源](https://www.tianyancha.com/bid/16f134cf743f11ea85737cd30aeb144c)招标花了九十万做出来的系统竟然文件**明着暴露公网**？？？
+
 python3脚本，下载ywhs学生上传的照片
 其他学校自己修改
 
