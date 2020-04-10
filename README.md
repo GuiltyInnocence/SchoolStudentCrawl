@@ -5,7 +5,7 @@
 [消息来源](https://www.tianyancha.com/bid/16f134cf743f11ea85737cd30aeb144c)
 
 ![](https://GuiltyInnocence.github.io/549.jpg)
-python3脚本，下载ywhs学生上传的照片
+python3脚本，下载ywhs学生上传的人脸识别用照片
 其他学校自己修改
 
 运行库需求requests
@@ -26,9 +26,9 @@ python3脚本，下载ywhs学生上传的照片
 经查询纯真数据如下
 
 > 中国浙江金华义乌市
-电信chinatelecom.com.cn
-地区中心经纬度29.10721, 119.64901
-住宅用户/企业用户
+> 电信chinatelecom.com.cn
+> 地区中心经纬度29.10721, 119.64901
+> 住宅用户/企业用户
 
 鉴于其为非常规80端口的端口映射，**猜测服务器架设于学校机房**
 
